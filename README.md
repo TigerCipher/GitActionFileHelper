@@ -10,7 +10,7 @@ Just a small little script to replace keywords in a given workflow file. Great f
 2. From the `Quick Open`  Command Palette (ctrl/cmd + shift + p) search for:
      `Terminal: Create New Integrated Terminal`
 3. From the `Quick Open` options select this project.
-4. Once you are inside the Terminal, execute: `python src/hello-world.py`
+4. Once you are inside the Terminal, execute: `python src/actionhelper.py`
 
 ### Important note
 - A recent windows 10 update has made it so by default when you use the `python` command, it redirects you to the Windows Store instead of executing python, even if you have the python exe on your system PATH. To fix this, either remove the WindowsApps folder from your PATH or go to `Apps & Features` of your windows settings, click on `App execution aliases` and disable the `App Installer` with the sub texts of `python.exe` and `python3.exe`
